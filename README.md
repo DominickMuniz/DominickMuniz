@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 -->
 
 
-
-<hr>  
-</hr>   
+<br>
+</br>
 <br>
 <br>  
 
