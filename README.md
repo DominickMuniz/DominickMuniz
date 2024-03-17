@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# 🏄‍♂️ Dominick Muniz
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
+
+
 
 <!--
 **DominickMuniz/DominickMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
