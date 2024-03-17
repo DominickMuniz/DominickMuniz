@@ -28,7 +28,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-#
+
 
 
 
@@ -61,7 +61,11 @@ Here are some ideas to get you started:
 
 
 
-<hr>
+<hr>  
+<hr>   
+
+
+   
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
