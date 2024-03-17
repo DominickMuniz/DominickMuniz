@@ -30,8 +30,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-
-
+  
+  
 
 
 
@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 
 
 <hr>  
-##<hr>   
-
-
-   
-
-<h2 align="center">⚡ Stats ⚡</h2>
+</hr>   
+  
+  
+        
+                         
+#<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
