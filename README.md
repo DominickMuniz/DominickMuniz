@@ -23,7 +23,10 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="NodeJS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 
    
-<br />  
+
+
+
+           
 
 
 
@@ -63,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <hr>  
-<hr>   
+##<hr>   
 
 
    
