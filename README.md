@@ -34,7 +34,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickmuniz&show_icons=true&theme=gruvbox)
+![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickmuniz&show_icons=true&theme=highcontrast)
 
 
 
