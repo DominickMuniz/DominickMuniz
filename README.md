@@ -33,61 +33,48 @@ Highlight product attributes and promotions directly on your collection pages.
 
 ⚙️ Simple install and zero‑code setup for non‑developers
 
-
-<table>
+<table cellpadding="0" cellspacing="0" border="1" align="center" width="100%">
   <tr>
-    <!-- Exquisite Sitemap -->
-    <td align="center" valign="top">
-      <div style="border:1px solid #e1e4e8; border-radius:10px; padding:16px; max-width:280px;">
-        <img src="https://cdn.shopify.com/app-store/listing_images/81f3322d74bf1e860ef887fc52ae5b8a/icon/CLbTj-KD2IcDEAE=.jpeg?height=144&quality=90&width=144"
-             width="80" height="80" alt="Exquisite Sitemap" />
-        <h3>Exquisite Sitemap</h3>
-        <p style="font-size:14px; color:#586069;">
-          Generate and maintain an SEO‑friendly HTML sitemap for Shopify stores in seconds.
-        </p>
-        <ul style="text-align:left; padding-left:20px; font-size:14px; color:#24292e;">
-          <li>📄 Fully customizable sitemap schema with toggles for collections, products, pages, and blogs</li>
-          <li>🔄 Automatic updates via GraphQL mutations and the Section Rendering API</li>
-          <li>🚀 Boosts crawlability and search visibility without manual sitemap management</li>
-        </ul>
-      </div>
+    <td align="center" valign="top" width="280">
+      <img
+        src="https://cdn.shopify.com/app-store/listing_images/81f3322d74bf1e860ef887fc52ae5b8a/icon/CLbTj-KD2IcDEAE=.jpeg?height=144&quality=90&width=144"
+        width="80" height="80" alt="Exquisite Sitemap" /><br><br>
+      <strong>Exquisite Sitemap</strong><br>
+      <em>Generate and maintain an SEO‑friendly HTML sitemap for Shopify stores in seconds.</em><br><br>
+      <ul>
+        <li>📄 Fully customizable schema with toggles for collections, products, pages & blogs</li>
+        <li>🔄 Automatic updates via GraphQL mutations & Section Rendering API</li>
+        <li>🚀 Boosts crawlability & search visibility without manual sitemap management</li>
+      </ul>
     </td>
-
-    <!-- Easy Sticky Add‑To‑Cart -->
-    <td align="center" valign="top">
-      <div style="border:1px solid #e1e4e8; border-radius:10px; padding:16px; max-width:280px;">
-        <img src="https://cdn.shopify.com/app-store/listing_images/859249c5057b7a16de4a3bb190545bba/icon/CNfG9Z3tkowDEAE=.png?height=144&width=144"
-             width="80" height="80" alt="Easy Sticky Add‑To‑Cart" />
-        <h3>Easy Sticky Add‑To‑Cart</h3>
-        <p style="font-size:14px; color:#586069;">
-          Keep your add‑to‑cart button always in view to maximize conversions.
-        </p>
-        <ul style="text-align:left; padding-left:20px; font-size:14px; color:#24292e;">
-          <li>🛒 Injects a lightweight, theme‑compatible sticky A2C component into any Shopify theme</li>
-          <li>⚡️ Leverages native product form logic for seamless cart updates and drawer triggers</li>
-          <li>🎨 Easily style via CSS variables to match your store’s branding</li>
-        </ul>
-      </div>
+    <td align="center" valign="top" width="280">
+      <img
+        src="https://cdn.shopify.com/app-store/listing_images/859249c5057b7a16de4a3bb190545bba/icon/CNfG9Z3tkowDEAE=.png?height=144&width=144"
+        width="80" height="80" alt="Easy Sticky Add‑To‑Cart" /><br><br>
+      <strong>Easy Sticky Add‑To‑Cart</strong><br>
+      <em>Keep your add‑to‑cart button always in view to maximize conversions.</em><br><br>
+      <ul>
+        <li>🛒 Lightweight, theme‑compatible sticky A2C component</li>
+        <li>⚡️ Leverages native product form logic for seamless cart updates</li>
+        <li>🎨 Easily style via CSS variables to match your branding</li>
+      </ul>
     </td>
-
-    <!-- Easy Product Badges -->
-    <td align="center" valign="top">
-      <div style="border:1px solid #e1e4e8; border-radius:10px; padding:16px; max-width:280px;">
-        <img src="https://cdn.shopify.com/app-store/listing_images/a2e9258ff4f5869ac1653406c71d7428/icon/CLCEs9Hino0DEAE=.png?height=144&width=144"
-             width="80" height="80" alt="Easy Product Badges" />
-        <h3>Easy Product Badges</h3>
-        <p style="font-size:14px; color:#586069;">
-          Highlight product attributes and promotions directly on your collection pages.
-        </p>
-        <ul style="text-align:left; padding-left:20px; font-size:14px; color:#24292e;">
-          <li>🏷️ Configurable badge labels driven by JSON metafields or product tags</li>
-          <li>🔍 Dynamic rendering ensures badges update in real time with inventory or price changes</li>
-          <li>⚙️ Simple install and zero‑code setup for non‑developers</li>
-        </ul>
-      </div>
+    <td align="center" valign="top" width="280">
+      <img
+        src="https://cdn.shopify.com/app-store/listing_images/a2e9258ff4f5869ac1653406c71d7428/icon/CLCEs9Hino0DEAE=.png?height=144&width=144"
+        width="80" height="80" alt="Easy Product Badges" /><br><br>
+      <strong>Easy Product Badges</strong><br>
+      <em>Highlight product attributes and promotions on your collection pages.</em><br><br>
+      <ul>
+        <li>🏷️ Configurable badge labels via JSON metafields or product tags</li>
+        <li>🔍 Real‑time updates based on inventory or price changes</li>
+        <li>⚙️ Zero‑code setup—install and go</li>
+      </ul>
     </td>
   </tr>
 </table>
+>
+
 
 
 Here's a link to checkout all of my Shopify apps: https://apps.shopify.com/partners/whitewood-media
