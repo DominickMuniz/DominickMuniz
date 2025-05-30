@@ -5,6 +5,8 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
 
+[![Full Image](https://cdn.shopify.com/s/files/1/0836/8934/1242/files/Fullimage.png?v=1748601666)](https://cdn.shopify.com/s/files/1/0836/8934/1242/files/Fullimage.png?v=1748601666)
+
 <table
   style="background-color:#f6f8fa; border:1px solid #e1e4e8; border-radius:10px; border-collapse:separate; margin:16px auto; width:80%;"
   cellpadding="0"
