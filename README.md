@@ -5,18 +5,27 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
 
-
-<table border="1" cellpadding="12" cellspacing="0" align="center" width="80%">
+<table
+  style="background-color:#f6f8fa; border:1px solid #e1e4e8; border-radius:10px; border-collapse:separate; margin:16px auto; width:80%;"
+  cellpadding="0"
+  cellspacing="0"
+>
   <tr>
-    <td width="120" valign="middle" align="center">
+    <td style="padding:12px; width:120px; vertical-align:middle; text-align:center;">
       <img
         src="https://cdn.shopify.com/app-store/listing_images/81f3322d74bf1e860ef887fc52ae5b8a/icon/CLbTj-KD2IcDEAE=.jpeg?height=144&quality=90&width=144"
-        width="80" height="80" alt="Exquisite Sitemap" />
+        width="80"
+        height="80"
+        alt="Exquisite Sitemap"
+      />
     </td>
-    <td valign="top">
-      <strong>Exquisite Sitemap</strong><br>
-      <em>Generate and maintain an SEO-friendly HTML sitemap for Shopify stores in seconds.</em><br><br>
-      <ul>
+    <td style="padding:12px; vertical-align:middle;">
+      <strong>Exquisite Sitemap</strong><br />
+      <em
+        >Generate and maintain an SEO‑friendly HTML sitemap for Shopify stores
+        in seconds.</em
+      ><br /><br />
+      <ul style="margin:0; padding-left:20px;">
         <li>Fully customizable schema with toggles for collections, products, pages & blogs</li>
         <li>Automatic updates via GraphQL mutations & Section Rendering API</li>
         <li>Boosts crawlability & search visibility</li>
@@ -25,19 +34,25 @@ I'm an indie full-stack developer and content creator building my version of the
   </tr>
 </table>
 
-<br>
-
-<table border="1" cellpadding="12" cellspacing="0" align="center" width="80%">
+<table
+  style="background-color:#f6f8fa; border:1px solid #e1e4e8; border-radius:10px; border-collapse:separate; margin:16px auto; width:80%;"
+  cellpadding="0"
+  cellspacing="0"
+>
   <tr>
-    <td width="120" valign="middle" align="center">
+    <td style="padding:12px; width:120px; vertical-align:middle; text-align:center;">
       <img
         src="https://cdn.shopify.com/app-store/listing_images/859249c5057b7a16de4a3bb190545bba/icon/CNfG9Z3tkowDEAE=.png?height=144&width=144"
-        width="80" height="80" alt="Easy Sticky Add‑To‑Cart" />
+        width="80"
+        height="80"
+        alt="Easy Sticky Add‑To‑Cart"
+      />
     </td>
-    <td valign="top">
-      <strong>Easy Sticky Add‑To‑Cart</strong><br>
-      <em>Keep your add‑to‑cart button always in view to maximize conversions.</em><br><br>
-      <ul>
+    <td style="padding:12px; vertical-align:middle;">
+      <strong>Easy Sticky Add‑To‑Cart</strong><br />
+      <em>Keep your add‑to‑cart button always in view to maximize conversions.</em
+      ><br /><br />
+      <ul style="margin:0; padding-left:20px;">
         <li>Lightweight, theme‑compatible sticky A2C component</li>
         <li>Leverages native product form logic for seamless cart updates</li>
         <li>Easily style via CSS variables to match your branding</li>
@@ -46,19 +61,25 @@ I'm an indie full-stack developer and content creator building my version of the
   </tr>
 </table>
 
-<br>
-
-<table border="1" cellpadding="12" cellspacing="0" align="center" width="80%">
+<table
+  style="background-color:#f6f8fa; border:1px solid #e1e4e8; border-radius:10px; border-collapse:separate; margin:16px auto; width:80%;"
+  cellpadding="0"
+  cellspacing="0"
+>
   <tr>
-    <td width="120" valign="middle" align="center">
+    <td style="padding:12px; width:120px; vertical-align:middle; text-align:center;">
       <img
         src="https://cdn.shopify.com/app-store/listing_images/a2e9258ff4f5869ac1653406c71d7428/icon/CLCEs9Hino0DEAE=.png?height=144&width=144"
-        width="80" height="80" alt="Easy Product Badges" />
+        width="80"
+        height="80"
+        alt="Easy Product Badges"
+      />
     </td>
-    <td valign="top">
-      <strong>Easy Product Badges</strong><br>
-      <em>Highlight product attributes and promotions on your collection pages.</em><br><br>
-      <ul>
+    <td style="padding:12px; vertical-align:middle;">
+      <strong>Easy Product Badges</strong><br />
+      <em>Highlight product attributes and promotions on your collection pages.</em
+      ><br /><br />
+      <ul style="margin:0; padding-left:20px;">
         <li>Configurable badge labels via JSON metafields or product tags</li>
         <li>Real‑time updates based on inventory or price changes</li>
         <li>Zero‑code setup—install and go</li>
@@ -66,6 +87,7 @@ I'm an indie full-stack developer and content creator building my version of the
     </td>
   </tr>
 </table>
+
 
 
 Here's a link to checkout all of my Shopify apps: https://apps.shopify.com/partners/whitewood-media
