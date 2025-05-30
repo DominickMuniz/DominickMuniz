@@ -6,6 +6,9 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
 
 
+Here's a link to checkout all of my Shopify apps: https://apps.shopify.com/partners/whitewood-media
+
+
 
 
 ---
