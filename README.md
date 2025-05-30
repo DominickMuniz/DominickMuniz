@@ -13,11 +13,11 @@ I've created and published serveral apps on the Shopify App Store. One is in rev
 <a href="https://apps.shopify.com/partners/whitewood-media" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.shopify.com/s/files/1/0836/8934/1242/files/Fullimage.png?v=1748601666" alt="Full Image" />
 </a>
-
-
+  
+  
 View my publisted listings in the App Store: https://apps.shopify.com/partners/whitewood-media
-
-
+  
+  
 
 
 ---
