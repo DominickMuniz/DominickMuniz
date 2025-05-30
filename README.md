@@ -42,7 +42,7 @@ View my publisted listings in the App Store: https://apps.shopify.com/partners/w
   
   
 
-All of my good repos are Private, but here's some overview stats:  
+
   
   
 
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
                          
 # <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+All of my good repos are Private, but here's some overview stats:  
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
