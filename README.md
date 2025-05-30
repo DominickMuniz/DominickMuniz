@@ -88,7 +88,7 @@ Here are some ideas to get you started:
                          
 # <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-All of my good repos are Private, but here's some overview stats of my public ones:  
+All of my good repos are Private, but here's some overview stats of my Public ones:  
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
