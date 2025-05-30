@@ -39,9 +39,10 @@ View my publisted listings in the App Store: https://apps.shopify.com/partners/w
 
 
            
+  
+  
 
-
-
+All of my good repos are Private, but here's some overview stats:  
   
   
 
