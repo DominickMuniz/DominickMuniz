@@ -6,7 +6,7 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
 
 # View my Shopify apps
-I've created and published serveral apps on the Shopify App Store. One is in review for "Built for Shopify" app recognition, and I currently also have 2 additional apps waiting on approval for public listing. 
+I've created and published 5 apps on the Shopify App Store, and one is in review for "Built for Shopify" (BFS) app recognition.
 
 
 
