@@ -1,24 +1,4 @@
 
-# 🏄‍♂️ Dominick Muniz
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
-
-# View my Shopify apps
-I've created and published 5 apps on the Shopify App Store, and one is in review for "Built for Shopify" (BFS) app recognition.
-
-
-
-<a href="https://apps.shopify.com/partners/whitewood-media" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.shopify.com/s/files/1/0836/8934/1242/files/Fullimage.png?v=1748601666" alt="Full Image" />
-</a>
-  
-  
-View my publisted listings in the App Store: https://apps.shopify.com/partners/whitewood-media
-  
-  
-
 
 ---
 
@@ -82,31 +62,3 @@ Here are some ideas to get you started:
 <br>
 <br>  
 
-
-  
-        
-                         
-# <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-All of my good repos are Private, but here's some overview stats of my Public ones:  
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=dominickmuniz&theme=react&border=61dafb&hide_border=true" alt="dominickmuniz" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dominickmuniz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominickmuniz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominickmuniz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
